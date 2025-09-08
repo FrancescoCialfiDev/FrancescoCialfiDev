@@ -4,7 +4,7 @@
 ---
 
 Sono uno sviluppatore web con background **full stack** e una forte inclinazione per il **front-end**.  
-Il mio percorso non convenzionale mi ha insegnato ad affrontare problemi complessi con creatività e pragmatismo, sviluppando allo stesso tempo **responsabilità, autonomia e resilienza**.  
+Il mio percorso non convenzionale mi ha insegnato ad affrontare problemi complessi con creatività e pragmatismo, sviluppando allo stesso tempo **responsabilità e autonomia**.  
 
 Mi definiscono una persona **curiosa e determinata**, con mentalità orientata al risultato. Credo che nel codice, come nella crescita personale, conti fare la differenza.  
 
