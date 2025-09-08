@@ -45,7 +45,7 @@ Mi piace creare interfacce **pulite, moderne e funzionali**, con attenzione sia 
 
 <div align="center">
 
-![Francesco's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FrancescoCialfiDev&theme=react-dark&hide_border=true)
+![Snake animation](https://github.com/FrancescoCialfiDev/FrancescoCialfiDev/blob/output/github-contribution-grid-snake.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoCialfiDev&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
