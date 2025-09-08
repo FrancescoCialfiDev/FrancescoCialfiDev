@@ -1,18 +1,34 @@
 <!-- Banner -->
 ![Banner](https://via.placeholder.com/1000x250.png?text=Francesco+Cialfi+%7C+Web+Developer)
 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Colonna sinistra: Titolo -->
+    <td width="60%" valign="top">
+      
 # 👋 Ciao, sono Francesco Cialfi  
 💻 **Web Developer | Front-End Oriented | Competenze Full-Stack**  
+✨ *“Unire estetica e funzionalità per creare esperienze digitali che lasciano il segno.”*  
 
----
+    </td>
 
-## 🙋 Chi sono
-Sono uno sviluppatore web con background **full stack** e una forte inclinazione per il **front-end**.  
-Mi piace creare interfacce **pulite, moderne e funzionali**, con attenzione sia al **design** che alla **user experience**.  
+    <!-- Colonna destra: Contatti -->
+    <td width="40%" align="center" valign="middle">
+      
+      <a href="mailto:francescocialfibev@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" width="90%" />
+      </a><br/><br/>
+      <a href="https://www.linkedin.com/in/francesco-cialfi-248806355/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" width="90%" />
+      </a><br/><br/>
+      <a href="https://github.com/FrancescoCialfiDev">
+        <img src="https://img.shields.io/badge/GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=white&color=6f42c1" width="90%" />
+      </a>
 
-🔹 Curioso, determinato e orientato al risultato  
-🔹 Passione per **tecnologia, estetica e crescita personale**  
-🔹 Sempre alla ricerca di nuove sfide per migliorarmi  
+    </td>
+  </tr>
+</table>
+
 
 ---
 
