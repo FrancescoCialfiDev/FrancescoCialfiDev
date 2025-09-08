@@ -83,7 +83,7 @@ Mi piace creare interfacce **pulite, moderne e funzionali**, con attenzione sia 
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/FrancescoCialfiDev">
-        <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515&color=171515" width="100%" height="50"/>
+        <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=purple&labelColor=171515&color=171515" width="100%" height="50"/>
       </a>
     </td>
   </tr>
