@@ -1,7 +1,5 @@
-<!-- Banner -->
-![Banner](https://via.placeholder.com/1000x250.png?text=Francesco+Cialfi+%7C+Web+Developer)
 
-# 👋 Ciao, sono Francesco Cialfi  
+Francesco Cialfi  
 💻 **Web Developer | Front-End Oriented | Competenze Full-Stack**  
 
 ---
