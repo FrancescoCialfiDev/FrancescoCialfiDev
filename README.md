@@ -52,7 +52,7 @@ Mi definiscono una persona **curiosa e determinata**, con mentalità orientata a
 
 ## 📫 Contatti
 - 📧 Email: francescocialfibev@gmail.com  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/FrancescoCialfiDev](https://www.linkedin.com/in/francesco-cialfi-248806355/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/francesco-cialfi-248806355/)  
 - 🐙 [GitHub](https://github.com/FrancescoCialfiDev)  
 
 ---
