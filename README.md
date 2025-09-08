@@ -3,7 +3,6 @@
 
 ---
 
-## 🙋 Chi sono
 Sono uno sviluppatore web con background **full stack** e una forte inclinazione per il **front-end**.  
 Il mio percorso non convenzionale mi ha insegnato ad affrontare problemi complessi con creatività e pragmatismo, sviluppando allo stesso tempo **responsabilità, autonomia e resilienza**.  
 
