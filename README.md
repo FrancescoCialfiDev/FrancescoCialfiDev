@@ -4,7 +4,6 @@
 
 ---
 
-## 🙋 Chi sono
 Sono uno sviluppatore web con background **full stack** e una forte inclinazione per il **front-end**.  
 Mi piace creare interfacce **pulite, moderne e funzionali**, con attenzione sia al **design** che alla **user experience**.  
 
