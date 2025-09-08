@@ -45,7 +45,7 @@ Mi piace creare interfacce **pulite, moderne e funzionali**, con attenzione sia 
 
 <div align="center">
 
-![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoCialfiDev&show_icons=true&theme=tokyonight&hide_border=true)  
+![Francesco's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FrancescoCialfiDev&theme=tokyo-night&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoCialfiDev&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
