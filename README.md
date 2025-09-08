@@ -44,10 +44,11 @@ Mi piace creare interfacce **pulite, moderne e funzionali**, con attenzione sia 
 ## 📊 Statistiche GitHub
 
 <div align="center">
-
-![Snake animation](https://github.com/FrancescoCialfiDev/FrancescoCialfiDev/blob/output/github-contribution-grid-snake.svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoCialfiDev&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=FrancescoCialfiDev&bg_color=00000000&color=6e7681&line=0969da&point=0969da&area=false&hide_border=true&radius=8"
+    alt="Grafico attività di FrancescoCialfiDev"
+    width="100%"
+  />
 </div>
 
 ---
