@@ -69,25 +69,26 @@ Mi piace creare interfacce **pulite, moderne e funzionali**, con attenzione sia 
 
 ## 📫 Contatti
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="33%">
       <a href="mailto:francescocialfibev@gmail.com">
-        <img src="https://img.shields.io/badge/Email-francescocialfibev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100%" height="50"/>
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" width="100%" height="50"/>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.linkedin.com/in/francesco-cialfi-248806355/">
-        <img src="https://img.shields.io/badge/LinkedIn-Francesco%20Cialfi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100%" height="50"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" width="100%" height="50"/>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/FrancescoCialfiDev">
-        <img src="https://img.shields.io/badge/GitHub-FrancescoCialfiDev-171515?style=for-the-badge&logo=github&logoColor=white" width="100%" height="50"/>
+        <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515&color=171515" width="100%" height="50"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
