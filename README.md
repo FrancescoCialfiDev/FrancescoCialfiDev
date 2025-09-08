@@ -71,29 +71,30 @@ Mi piace creare interfacce **pulite, moderne e funzionali**, con attenzione sia 
 
 <table>
   <tr>
-    <td width="33%">
-      <b>📧 Email</b>
-    </td>
+    <td width="33%"><b>📧 Email</b></td>
     <td width="67%">
-      <a href="mailto:francescocialfibev@gmail.com">francescocialfibev@gmail.com</a>
+      <a href="mailto:francescocialfibev@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-francescocialfibev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="33%">
-      <b>💼 LinkedIn</b>
-    </td>
+    <td width="33%"><b>💼 LinkedIn</b></td>
     <td width="67%">
-      <a href="https://www.linkedin.com/in/francesco-cialfi-248806355/">linkedin.com/in/francesco-cialfi-248806355/</a>
+      <a href="https://www.linkedin.com/in/francesco-cialfi-248806355/">
+        <img src="https://img.shields.io/badge/LinkedIn-Francesco%20Cialfi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="33%">
-      <b>🐙 GitHub</b>
-    </td>
+    <td width="33%"><b>🐙 GitHub</b></td>
     <td width="67%">
-      <a href="https://github.com/FrancescoCialfiDev">github.com/FrancescoCialfiDev</a>
+      <a href="https://github.com/FrancescoCialfiDev">
+        <img src="https://img.shields.io/badge/GitHub-FrancescoCialfiDev-171515?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
+
 
 
