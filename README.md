@@ -3,7 +3,6 @@
 
 # 👋 Ciao, sono Francesco Cialfi  
 💻 **Web Developer | Front-End Oriented | Competenze Full-Stack**  
-✨ *“Unire estetica e funzionalità per creare esperienze digitali che lasciano il segno.”*  
 
 ---
 
