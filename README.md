@@ -1,41 +1,61 @@
 # 👋 Ciao, sono Francesco Cialfi  
-
-💻 **Junior Full-Stack Web Developer** (front-end oriented)  
-🎨 **Appassionato di moda streetwear** & branding digitale  
-🏋️‍♂️ **Fitness enthusiast** sempre in crescita  
+💻 **Web Developer | Orientato al Front-End | Competenze Full-Stack**  
 
 ---
 
-## 🚀 Su di me
-Ho completato un **bootcamp intensivo di 600 ore** (Boolean) su:  
-`JavaScript • React • Node.js • Express • MySQL • Bootstrap • Tailwind • Vite`  
-Attualmente sto lavorando su progetti web che uniscono **tecnologia e design**, con un occhio all’estetica e all’esperienza utente.  
+## 🙋 Chi sono
+Sono uno sviluppatore web con background **full stack** e una forte inclinazione per il **front-end**.  
+Il mio percorso non convenzionale mi ha insegnato ad affrontare problemi complessi con creatività e pragmatismo, sviluppando allo stesso tempo **responsabilità, autonomia e resilienza**.  
 
-Parallelamente sto sviluppando **"Everyone"**, un brand di abbigliamento street & casual, dove unisco creatività, codice e identità visiva.  
+Mi definiscono una persona **curiosa e determinata**, con mentalità orientata al risultato. Credo che nel codice, come nella crescita personale, conti fare la differenza.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Progetti Personali
+- 🎵 **Spotify Web UI Clone**  
+  Replica dell’interfaccia di Spotify con **HTML, CSS, JavaScript e Bootstrap**. Il progetto riproduce le funzionalità base di navigazione e interazione utente, con un design **responsivo**.  
 
-- **Front-End:** React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind, Framer Motion  
+- 🎬 **Netflix Web App**  
+  Applicazione ispirata a Netflix sviluppata in **React**, con integrazione API esterne per il catalogo dei contenuti. Include funzionalità di ricerca e gestione interfaccia utente, con focus su performance e UX.  
+
+- 🩺 **Doctor Finder (Web App Completa)**  
+  Applicazione **full-stack** che gestisce ricerca di dottori e relative informazioni.  
+  Tecnologie: **React, Node.js, Express, MySQL**.  
+  Funzionalità: registrazione utenti, visualizzazione dinamica dei dati, gestione database e autenticazione.  
+
+---
+
+## 🛠️ Competenze Tecniche
+- **Front-End:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Bootstrap, Tailwind, Framer Motion  
 - **Back-End:** Node.js, Express.js  
 - **Database:** MySQL  
-- **Tools & Workflow:** Git, GitHub, VSCode, Figma, Canva  
+- **Strumenti:** Git, GitHub, VSCode, Figma, Canva  
 
 ---
 
-## 📌 Progetti in evidenza
-- 🛒 [E-commerce Ricambi Auto](https://github.com/tuo-username/nome-progetto) → piattaforma completa con gestione prodotti, carrello e area clienti  
-- 👕 [Everyone Clothing](https://github.com/tuo-username/nome-progetto) → sito vetrina & store per brand di moda streetwear  
-- 🎮 [Prototype Game 3D](https://github.com/tuo-username/nome-progetto) → esperimento creativo con interazioni e grafica  
+## 📚 Formazione
+- 🎓 **Corso Full Stack Web Development – Boolean**  
+  600+ ore di formazione intensiva su sviluppo front-end e back-end, con focus su progetti reali e metodologie agili.  
+
+- 🏫 **Diploma di Odontotecnico – I.I.S.S. Sciascia e Bufalino**  
+
+---
+
+## 💼 Esperienze Professionali
+- **Gestore Attività Familiare – Absolute Beach (2020–2023)**  
+  Gestione organizzativa e coordinamento dello staff in un lido balneare orientato alla ristorazione e ai servizi turistici.  
+  → Competenze acquisite: leadership, problem solving, lavoro di squadra, gestione del cliente.  
+
+- **Cameriere – Bar Locale (2021)**  
+  Gestione sala e relazione con il cliente, sviluppando comunicazione e rapidità operativa.  
 
 ---
 
 ## 📫 Contatti
-- [🌐 Portfolio / GitHub](https://github.com/tuo-username)  
-- [💼 LinkedIn](https://www.linkedin.com/in/tuo-profilo/)  
-- [📸 Instagram](https://www.instagram.com/tuo-username/)  
+- 📧 Email: francescocialfibev@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/FrancescoCialfiDev)  
+- 🐙 [GitHub](https://github.com/FrancescoCialfiDev)  
 
 ---
 
-✨ *“Code, style & growth — costruire progetti che uniscono estetica e funzionalità.”*  
+✨ *“Unire estetica e funzionalità per creare esperienze digitali che lasciano il segno.”*  
