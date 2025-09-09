@@ -69,7 +69,7 @@ Mi piace creare interfacce **pulite, moderne e funzionali**, con attenzione sia 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="33%">
-      <a href="mailto:francescocialfibev@gmail.com">
+      <a href="mailto:francescocialfidev@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" width="100%" height="50"/>
       </a>
     </td>
