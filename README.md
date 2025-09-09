@@ -1,6 +1,6 @@
 
 # Francesco Cialfi  
-💻 **Web Developer | Front-End Oriented | Competenze Full-Stack**  
+💻 **Web Developer | Front-End | Competenze Full-Stack**  
 
 ---
 
