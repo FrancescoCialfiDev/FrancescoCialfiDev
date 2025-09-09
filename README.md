@@ -13,7 +13,7 @@ Mi piace creare interfacce **pulite, moderne e funzionali**, con attenzione sia 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Dev Stack
 
 <div align="center">
 
